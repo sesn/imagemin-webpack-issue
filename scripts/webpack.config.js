@@ -21,7 +21,7 @@ const paths = {
   appSrc: resolveApp('src'),
   appBuild: resolveApp('build'),
   appIndexJs: resolveApp('src/app.js'),
-  appNodeModuules: resolveApp('node_modules')
+  appNodeModules: resolveApp('node_modules')
 };
 
 const imageminManifest = {};
